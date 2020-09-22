@@ -1,0 +1,10 @@
+Module1 = 21, 41, 512, 500, 
+ClsIntroduzione = 110, 110, 505, 553, 
+clsMappa3D = 44, 44, 535, 503, 
+ClsTele = 132, 132, 527, 575, 
+ClsClasse_sonora = 88, 88, 483, 531, 
+Form_Opzioni = 88, 88, 579, 547, , 22, 22, 513, 481, C
+Map_Editor = 80, 124, 475, 566, Z, 8, 103, 403, 545, C
+Form_Assegnazione_Multipla = -17, 66, 445, 509, , 0, 0, 516, 442, C
+Form_Materiali = 44, 44, 467, 486, , 22, 22, 445, 464, C
+ClsOggetti = 44, 44, 539, 489, 
